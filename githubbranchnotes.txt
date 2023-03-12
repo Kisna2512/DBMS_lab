@@ -2,3 +2,4 @@ git branch ..This command is for checking the branch
 git checkout -b feature ..This command is for creating a new branch
 git pull .. This command is for merging a sub branch into main branch
 it branch -d feature ..This command is for deleting the branch
+git commit -am "----" ..This command is only for modified files
